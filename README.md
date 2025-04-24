@@ -50,7 +50,7 @@ Curioso por natureza, gosto de testar ferramentas, montar labs, documentar tudo 
 
 - 📧 gabriel.alexandre.oliveira@outlook.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/gabrielalex01)  
-- 💼 [Currículo PDF](https://github.com/GabrielAlex01/GabrielAlex01/blob/main/Gabriel_Curriculo.pdf)
+- 💼 [Currículo PDF](https://github.com/GabrielAlex01/GabrielAlex01/blob/main/Gabriel%20Alexandre.pdf)
 
 ---
 
