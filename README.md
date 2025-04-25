@@ -55,3 +55,4 @@ Curioso por natureza, gosto de testar ferramentas, montar labs, documentar tudo 
 ---
 
 🛠️ *Em construção contínua: mais projetos e automações em breve!*
+
