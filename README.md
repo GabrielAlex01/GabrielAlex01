@@ -46,7 +46,7 @@
 
 <h2>🧩 Stack tecnológica</h2>
 
-<p align="center">
+<p align="center"><br>
   <b>💻 Linguagens & Automação</b><br>
   <img src="https://skillicons.dev/icons?i=python,ts,js,powershell" alt="Linguagens" /><br><br>
 
