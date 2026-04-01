@@ -160,9 +160,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrielalex01" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Jornada%20Profissional-007E33?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-007E33?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/GabrielAlex01" target="_blank" rel="noreferrer">
+  <a href="https://github.com/GabrielAlex01?tab=repositories" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Repositórios%20e%20Labs-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
   </a>
 </p>
