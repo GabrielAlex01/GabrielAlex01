@@ -145,7 +145,7 @@
 - Analista de Cibersegurança (Júnior)<br>
 - Assistente de Zabbix / Monitoramento<br>
 - Analista de Pentest / Segurança Ofensiva<br>
-- Suporte de Infraestrutura Avançada<br><br>
+- Suporte de Infraestrutura<br><br>
 
 <b>Modelos:</b> Remoto, Híbrido, Presencial<br>
 <b>Local:</b> Guarulhos, SP — Brasil
