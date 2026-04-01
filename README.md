@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Gabriel%20Alexandre&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Cybersecurity%20%7C%20Infrastructure%20%26%20Pentest&descAlign=50&descAlignY=62&animation=twinkling&color=0:051F0D,50:008A27,100:00D13B&v=2" alt="Header" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Monitoramento+defensivo+inteligente+e+seguran%C3%A7a+ofensiva+na+pr%C3%A1tica;Transformando+dados+e+logs+em+a%C3%A7%C3%B5es+de+prote%C3%A7%C3%A3o+e+resili%C3%AAncia.&v=2" alt="Texto animado" />
@@ -43,15 +40,6 @@
   <b>💼 Cargo Alvo:</b> Analista de Cibersegurança Jr | Assistente de Monitoramento<br>
   <b>🎯 Foco de Estudo:</b> Monitoramento (Zabbix, Wazuh), Pentest (Kali, Nmap), Automação (Python, ESP32) e Web (React, TS).<br>
   <b>🚀 Objetivo:</b> Garantir a disponibilidade e segurança de infraestruturas, antecipando ameaças através de monitoramento inteligente e testes rigorosos.
-</p>
-
-<hr/>
-
-<h2>📊 Visão geral do GitHub</h2>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GabrielAlex01&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D13B&text_color=c9d1d9&icon_color=00D13B&cache_seconds=86400" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlex01&layout=compact&hide_border=true&bg_color=0d1117&title_color=00D13B&text_color=c9d1d9&cache_seconds=86400" alt="Linguagens mais usadas" />
 </p>
 
 <hr/>
@@ -115,7 +103,7 @@
 
 <hr/>
 
-<h2>✨ Meus Diferenciais</h2>
+<h2>💬 Meus Diferenciais</h2>
 
 <table>
   <tr>
@@ -165,7 +153,7 @@
 
 <hr/>
 
-<h2>💬✨ Vamos nos conectar</h2>
+<h2>💬 Vamos nos conectar</h2>
 
 <p align="center">
   Acesse os links abaixo para saber mais sobre a minha jornada:
