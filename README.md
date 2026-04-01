@@ -1,12 +1,12 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Gabriel%20Alexandre&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Cybersecurity%20%7C%20Infrastructure%20%26%20Pentest&descAlign=50&descAlignY=62&animation=twinkling&color=0:051F0D,50:008A27,100:00D13B&v=1" alt="Header" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Gabriel%20Alexandre&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Cybersecurity%20%7C%20Infrastructure%20%26%20Pentest&descAlign=50&descAlignY=62&animation=twinkling&color=0:051F0D,50:008A27,100:00D13B&v=2" alt="Header" />
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Monitoramento+defensivo+inteligente+e+seguran%C3%A7a+ofensiva+na+pr%C3%A1tica;Transformando+dados+e+logs+em+a%C3%A7%C3%B5es+de+prote%C3%A7%C3%A3o+e+resili%C3%AAncia.&v=1" alt="Texto animado" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Monitoramento+defensivo+inteligente+e+seguran%C3%A7a+ofensiva+na+pr%C3%A1tica;Transformando+dados+e+logs+em+a%C3%A7%C3%B5es+de+prote%C3%A7%C3%A3o+e+resili%C3%AAncia.&v=2" alt="Texto animado" />
+</p>
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/gabrielalex01" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-007E33?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -16,15 +16,15 @@
   <a href="https://github.com/GabrielAlex01" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</div>
+</p>
 
 <br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=GabrielAlex01&label=Profile%20Views&color=00D13B&v=1" alt="Views" />
-  <img src="https://img.shields.io/github/followers/GabrielAlex01?label=Followers&color=008A27&v=1" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/GabrielAlex01?label=Stars&color=008A27&v=1" alt="Stars" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GabrielAlex01&label=Profile%20Views&color=00D13B&v=2" alt="Views" />
+  <img src="https://img.shields.io/github/followers/GabrielAlex01?label=Followers&color=008A27&v=2" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/GabrielAlex01?label=Stars&color=008A27&v=2" alt="Stars" />
+</p>
 
 <hr/>
 
@@ -39,44 +39,35 @@
   <li><b>Local:</b> Guarulhos, São Paulo — <b>remoto</b>, <b>híbrido</b> ou <b>presencial</b>.</li>
 </ul>
 
-<pre>
-const gabrielAlexandre = {
-  cargo: "Analista de Cibersegurança Jr | Assistente de Monitoramento",
-  local: "Guarulhos, SP, Brasil",
-  foco: [
-    "Monitoramento e Infraestrutura (Zabbix, Wazuh, FortiGate)",
-    "Pentest e Vulnerabilidades (Kali Linux, Nmap, Wireshark)",
-    "Automação e Hardware Hacking (Python, ESP32)",
-    "Desenvolvimento Web (React, TypeScript)"
-  ],
-  objetivo:
-    "Garantir a disponibilidade e segurança de infraestruturas, antecipando ameaças através de monitoramento inteligente e testes rigorosos."
-};
-</pre>
+<p>
+  <b>💼 Cargo Alvo:</b> Analista de Cibersegurança Jr | Assistente de Monitoramento<br>
+  <b>🎯 Foco de Estudo:</b> Monitoramento (Zabbix, Wazuh), Pentest (Kali, Nmap), Automação (Python, ESP32) e Web (React, TS).<br>
+  <b>🚀 Objetivo:</b> Garantir a disponibilidade e segurança de infraestruturas, antecipando ameaças através de monitoramento inteligente e testes rigorosos.
+</p>
 
 <hr/>
 
 <h2>📊 Visão geral do GitHub</h2>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GabrielAlex01&show_icons=true&hide_border=true&theme=github_dark&icon_color=00D13B&v=1" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlex01&layout=compact&hide_border=true&theme=github_dark&v=1" alt="Linguagens mais usadas" />
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GabrielAlex01&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D13B&text_color=c9d1d9&icon_color=00D13B&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlex01&layout=compact&hide_border=true&bg_color=0d1117&title_color=00D13B&text_color=c9d1d9&cache_seconds=86400" alt="Linguagens mais usadas" />
+</p>
 
 <hr/>
 
 <h2>🧩 Stack tecnológica</h2>
 
-<div align="center">
-  <h4>💻 Linguagens & Automação</h4>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css" alt="Linguagens" />
+<p align="center">
+  <b>💻 Linguagens & Automação</b><br>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css" alt="Linguagens" /><br><br>
 
-  <h4>🛡️ Infraestrutura, SO & Ferramentas</h4>
-  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,bash,powershell" alt="Infraestrutura" />
+  <b>🛡️ Infraestrutura, SO & Ferramentas</b><br>
+  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,bash,powershell" alt="Infraestrutura" /><br><br>
 
-  <h4>🌐 Desenvolvimento Web</h4>
+  <b>🌐 Desenvolvimento Web</b><br>
   <img src="https://skillicons.dev/icons?i=react,nodejs,git,github" alt="Dev" />
-</div>
+</p>
 
 <hr/>
 
@@ -98,32 +89,26 @@ const gabrielAlexandre = {
 <table>
   <tr>
     <th align="left">Área de Atuação</th>
-    <th align="center">Proficiência</th>
     <th align="left">Destaque Principal</th>
   </tr>
   <tr>
     <td><b>Monitoramento (Blue Team)</b></td>
-    <td align="center"><b>90%</b></td>
     <td>Zabbix, Wazuh, alertas inteligentes e gestão de logs</td>
   </tr>
   <tr>
     <td><b>Segurança Ofensiva (Red Team)</b></td>
-    <td align="center"><b>85%</b></td>
     <td>Kali Linux, Nmap, VAPT, exploração controlada</td>
   </tr>
   <tr>
     <td><b>Infraestrutura & Redes</b></td>
-    <td align="center"><b>85%</b></td>
     <td>FortiGate, roteamento, segurança de endpoint (Kaspersky)</td>
   </tr>
   <tr>
     <td><b>Desenvolvimento Web</b></td>
-    <td align="center"><b>75%</b></td>
     <td>React, TypeScript, criação de dashboards e ferramentas web</td>
   </tr>
   <tr>
     <td><b>Automação & Hardware</b></td>
-    <td align="center"><b>80%</b></td>
     <td>Scripts em Python, laboratórios com ESP32</td>
   </tr>
 </table>
@@ -138,15 +123,15 @@ const gabrielAlexandre = {
     <th align="left">Aplicação Prática</th>
   </tr>
   <tr>
-    <td><b>Visão 360 (Ataque e Defesa)</b></td>
+    <td><b>Abordagem Red Team / Blue Team</b></td>
     <td>Entendo como vulnerabilidades são exploradas para configurar defesas mais robustas.</td>
   </tr>
   <tr>
-    <td><b>Mão na Massa (Labs Práticos)</b></td>
+    <td><b>Labs Práticos</b></td>
     <td>Testo conceitos em ambientes controlados (VMs, servidores próprios) antes de levar a produção.</td>
   </tr>
   <tr>
-    <td><b>Curiosidade Investigativa</b></td>
+    <td><b>Análise de Logs e Resposta a Incidentes</b></td>
     <td>Investigação profunda de logs e anomalias para não deixar falsos positivos passarem.</td>
   </tr>
   <tr>
@@ -159,29 +144,24 @@ const gabrielAlexandre = {
 
 <h2>📈 Atividade & gráficos</h2>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielAlex01&bg_color=0B1220&color=C9D1D9&line=00D13B&point=00D13B&area=true&hide_border=true&v=1" alt="Gráfico de atividade" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielAlex01&bg_color=0D1117&color=C9D1D9&line=00D13B&point=00D13B&area=true&hide_border=true&v=2" alt="Gráfico de atividade" />
+</p>
 
 <hr/>
 
 <h2>🌍 Aberto a oportunidades</h2>
 
-<pre>
-Cargos:
-- Analista de Cibersegurança (Júnior)
-- Assistente de Zabbix / Monitoramento
-- Analista de Pentest / Segurança Ofensiva
-- Suporte de Infraestrutura Avançada
+<p>
+<b>Cargos:</b><br>
+- Analista de Cibersegurança (Júnior)<br>
+- Assistente de Zabbix / Monitoramento<br>
+- Analista de Pentest / Segurança Ofensiva<br>
+- Suporte de Infraestrutura Avançada<br><br>
 
-Modelo:
-- Remoto
-- Híbrido
-- Presencial
-
-Local:
-Guarulhos, SP — Brasil
-</pre>
+<b>Modelos:</b> Remoto, Híbrido, Presencial<br>
+<b>Local:</b> Guarulhos, SP — Brasil
+</p>
 
 <hr/>
 
@@ -191,19 +171,19 @@ Guarulhos, SP — Brasil
   Acesse os links abaixo para saber mais sobre a minha jornada:
 </p>
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/gabrielalex01" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Jornada%20Profissional-007E33?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/GabrielAlex01" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Repositórios%20e%20Labs-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
   </a>
-</div>
+</p>
 
 <p align="center">
   📧 <b>Email:</b> <a href="mailto:gabriel.alexandre.oliveira@outlook.com">gabriel.alexandre.oliveira@outlook.com</a><br>
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Proteja%20com%20Propósito&fontColor=FFFFFF&fontSize=34&color=0:051F0D,50:008A27,100:00D13B&v=1" alt="Footer" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Proteja%20com%20Propósito&fontColor=FFFFFF&fontSize=34&color=0:051F0D,50:008A27,100:00D13B&v=2" alt="Footer" />
+</p>
