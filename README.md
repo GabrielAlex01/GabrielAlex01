@@ -171,7 +171,3 @@
 <p align="center">
   📧 <b>Email:</b> <a href="mailto:gabriel.alexandre.oliveira@outlook.com">gabriel.alexandre.oliveira@outlook.com</a><br>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Proteja%20com%20Propósito&fontColor=FFFFFF&fontSize=34&color=0:051F0D,50:008A27,100:00D13B&v=2" alt="Footer" />
-</p>
