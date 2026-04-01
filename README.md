@@ -32,11 +32,10 @@
   <li><b>Especialidades:</b> Zabbix, Wazuh, Firewalls (FortiGate), varreduras de rede e ecossistemas de segurança de endpoint (Cisco/Kaspersky).</li>
   <li><b>Segurança Ofensiva:</b> Práticas com Kali Linux, Nmap, Wireshark e hardware hacking com ESP32 (BadUSB/Automações).</li>
   <li><b>Desenvolvimento & Automação:</b> Scripts em Python para segurança e construção de interfaces web com React e TypeScript.</li>
-  <li><b>Local:</b> Guarulhos, São Paulo — <b>remoto</b>, <b>híbrido</b> ou <b>presencial</b>.</li>
+  <li><b>Local:</b> Guarulhos, São Paulo </li>
 </ul>
 
 <p>
-  <b>💼 Cargo Alvo:</b> Analista de Cibersegurança Jr | Assistente de Monitoramento<br>
   <b>🎯 Foco de Estudo:</b> Monitoramento (Zabbix, Wazuh), Pentest (Kali, Nmap), Automação (Python, ESP32) e Web (React, TS).<br>
   <b>🚀 Objetivo:</b> Garantir a disponibilidade e segurança de infraestruturas, antecipando ameaças através de monitoramento inteligente e testes rigorosos.
 </p>
