@@ -48,13 +48,13 @@
 
 <p align="center">
   <b>💻 Linguagens & Automação</b><br>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css" alt="Linguagens" /><br><br>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,powershell,cmd" alt="Linguagens" /><br><br>
 
   <b>🛡️ Infraestrutura, SO & Ferramentas</b><br>
   <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,bash,powershell,nmap" alt="Infraestrutura" /><br><br>
 
   <b>🌐 Desenvolvimento Web</b><br>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,git,github" alt="Dev" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,ts,js,git,github" alt="Dev" />
 </p>
 
 <hr/>
