@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Monitoramento+defensivo+inteligente+e+seguran%C3%A7a+ofensiva+na+pr%C3%A1tica;Transformando+dados+e+logs+em+a%C3%A7%C3%B5es+de+prote%C3%A7%C3%A3o+e+resili%C3%AAncia.&v=2" alt="Texto animado" />
 </p>
 
+<h2>💬 Vamos nos conectar</h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrielalex01" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-007E33?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -151,8 +153,6 @@
 </p>
 
 <hr/>
-
-<h2>💬 Vamos nos conectar</h2>
 
 <p align="center">
   Acesse os links abaixo para saber mais sobre a minha jornada:
