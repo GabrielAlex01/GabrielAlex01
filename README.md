@@ -54,7 +54,7 @@
   <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,bash,powershell,nmap" alt="Infraestrutura" /><br><br>
 
   <b>🌐 Desenvolvimento Web</b><br>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,ts,git,github" alt="Dev" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,git,github" alt="Dev" />
 </p>
 
 <hr/>
