@@ -60,6 +60,7 @@
 <h2>📜 Certificações de Destaque</h2>
 
 <ul>
+  <li>🎓 <b>Wazuh</b> (Udemy, 2026)</li>
   <li>🎓 <b>Zabbix 7</b> (Udemy, 2026)</li>
   <li>🎓 <b>Networking Basics</b> (Cisco Networking Academy, 2026)</li>
   <li>🎓 <b>Introdução à Cibersegurança</b> (Cisco Networking Academy, 2025)</li>
